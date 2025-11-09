@@ -51,9 +51,9 @@ This project covers the complete workflow of a basic library information system:
 ---
 
 ## 📁 Files Included
-`Sistem_Basis_Data_Perpustakaan.ipynb` : Main Google Colab notebook with SQL queries, analysis, and visualizations 
-`perpustakaan.db` : SQLite database file (auto-generated in Colab) 
-`README.md` : Project documentation and overview
+- `Sistem_Basis_Data_Perpustakaan.ipynb` : Main Google Colab notebook with SQL queries, analysis, and visualizations 
+- `perpustakaan.db` : SQLite database file (auto-generated in Colab) 
+- `README.md` : Project documentation and overview
 
 ---
 
